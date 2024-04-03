@@ -1,74 +1,39 @@
 ﻿[
+
   {
-    "Nome": "Aço",
-    "Cor": "#aab"
-  },
-  {
-    "Nome": "Água",
+    "Nome": "Respiração da Água",
     "Cor": "#39f"
   },
   {
-    "Nome": "Dragão",
+    "Nome": "Respiração da Besta",
     "Cor": "#76e"
   },
   {
-    "Nome": "Elétrico",
+    "Nome": "Respiração do Trovão",
     "Cor": "#fc3"
   },
   {
-    "Nome": "Fada",
+    "Nome": "Respiração dos Insetos Venenosos",
     "Cor": "#e9e"
   },
   {
-    "Nome": "Fantasma",
+    "Nome": "FRespiração das Flores",
     "Cor": "#66b"
   },
   {
-    "Nome": "Fogo",
+    "Nome": "Respiração das Chamas",
     "Cor": "#f42"
   },
   {
-    "Nome": "Gelo",
+    "Nome": "Respiração do Som",
     "Cor": "#6cf"
   },
   {
-    "Nome": "Inseto",
-    "Cor": "#ab6"
-  },
-  {
-    "Nome": "Lutador",
+    "Nome": "Kekkijutsu ",
     "Cor": "#b54"
   },
   {
-    "Nome": "Normal",
-    "Cor": "#aa9"
-  },
-  {
-    "Nome": "Pedra",
-    "Cor": "#ba6"
-  },
-  {
-    "Nome": "Planta",
+    "Nome": "Respiração das Flores",
     "Cor": "#7c5"
-  },
-  {
-    "Nome": "Psíquico",
-    "Cor": "#f59"
-  },
-  {
-    "Nome": "Sombrio",
-    "Cor": "#754"
-  },
-  {
-    "Nome": "Terrestre",
-    "Cor": "#db5"
-  },
-  {
-    "Nome": "Venenoso",
-    "Cor": "#a59"
-  },
-  {
-    "Nome": "Voador",
-    "Cor": "#89f"
   }
 ]
