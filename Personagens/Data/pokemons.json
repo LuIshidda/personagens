@@ -5,7 +5,7 @@
     "Descricao": "O protagonista da série, Tanjiro é um gentil e determinado jovem que se torna um caçador de demônios após sua família ser massacrada por um demônio.",
     "Especie": "Humano",
     "Tipo": ["Respiração da Água"],
-    "Altura": 165 ,
+    "Altura": 1.65 ,
     "Peso": 63 ,
     "Imagem": "\\img\\pokemons\\1.webp"
   },
@@ -15,7 +15,7 @@
     "Descricao": "A irmã mais nova de Tanjiro, que foi transformada em um demônio durante o ataque à sua família. Apesar de sua aparência demoníaca, Nezuko mantém sua bondade interior.",
     "Especie": "Demonio",
     "Tipo": [ "Kekkijutsu " ],
-    "Altura": 153,
+    "Altura": 1.53,
     "Peso": 45,
     "Imagem": "\\img\\pokemons\\2.webp"
   },
@@ -25,7 +25,7 @@
     "Descricao": "Um dos amigos de Tanjiro, Zenitsu é um espadachim medroso, mas extremamente talentoso, especializado na Respiração do Trovão.",
     "Especie": "Humano",
     "Tipo": ["Respiração do Trovão"],
-    "Altura": 164,
+    "Altura": 1.64,
     "Peso": 50,
     "Imagem": "\\img\\pokemons\\3.webp"
   },
@@ -35,7 +35,7 @@
     "Descricao": "Um espadachim selvagem e destemido que prefere o combate corpo a corpo. Inosuke é conhecido por sua máscara de javali e sua natureza competitiva.",
     "Especie": "Humano",
     "Tipo": [ "Respiração da Besta" ],
-    "Altura": 164,
+    "Altura": 1.64,
     "Peso": 63,
     "Imagem": "\\img\\pokemons\\4.webp"
   },
@@ -45,7 +45,7 @@
     "Descricao": "Um dos Hashira, os mais poderosos espadachins de Demon Slayer Corps. Giyu é calmo e sério, demonstrando grande habilidade na Respiração da Água.",
     "Especie": "Humano",
     "Tipo": [ "Respiração da Água" ],
-    "Altura": 176,
+    "Altura": 1.76,
     "Peso": 66,
     "Imagem": "\\img\\pokemons\\5.webp"
   },
@@ -55,7 +55,7 @@
     "Descricao": "Uma das Hashira, Shinobu é uma mulher gentil e inteligente, especializada na Respiração dos Insetos Venenosos e na criação de venenos para derrotar demônios.",
     "Especie": "Humano",
     "Tipo": [ "Respiração dos Insetos Venenosos" ],
-    "Altura": 168,
+    "Altura": 1.68,
     "Peso": 55,
     "Imagem": "\\img\\pokemons\\6.webp"
   },
@@ -75,7 +75,7 @@
     "Descricao": "É uma Caçadora de Demônios, sendo também a irmã adotiva de Kanae Kocho, a Pilar das Flores, e Shinobu Kocho, a Pilar do Inseto, além de ser a Tsuguko de Shinobu. Kanao é uma jovem garota com olhos grandes e suaves, de uma cor rosa-lilás, emoldurados por cílios grossos. Ela tem cabelos pretos e finos, amarrados em um rabo de cavalo no lado direito da cabeça e presos por um enfeite de borboleta verde e rosa que pertenceu à sua irmã adotiva, Kanae Kocho. Ela tem uma franja reta e dois fios soltos no comprimento do queixo que se curvam para baixo acima de cada uma das orelhas.",
     "Especie": "Humana",
     "Tipo": [ "Respiração das Flores" ],
-    "Altura": 156,
+    "Altura": 1.56,
     "Peso": 46,
     "Imagem": "\\img\\pokemons\\8.webp"
   },
@@ -95,7 +95,7 @@
     "Descricao": "Um dos Hashira, Kyojuro é um espadachim apaixonado conhecido por sua determinação e coragem. Ele é mestre na Respiração das Chamas.",
     "Especie": "Humano",
     "Tipo": [ "Respiração das Chamas" ],
-    "Altura": 179,
+    "Altura": 1.79,
     "Peso": 71,
     "Imagem": "\\img\\pokemons\\10.webp"
   },
@@ -105,7 +105,7 @@
     "Descricao": "Um dos Hashira, Tengen é um espadachim extravagante e confiante, conhecido por sua técnica única, a Respiração do Som, e por sua aparência exótica.",
     "Especie": "Humano",
     "Tipo": [ "Respiração do Som" ],
-    "Altura": 182,
+    "Altura": 1.82,
     "Peso": 78,
     "Imagem": "\\img\\pokemons\\11.webp"
   },
@@ -115,7 +115,7 @@
     "Descricao": "É um membro dos Doze Demônios da Lua, mantendo a posição da Lua Superior Três. Enquanto ele era humano, seu nome era Hakuji.",
     "Especie": "Demonio",
     "Tipo": [ "Kekkijutsu " ],
-    "Altura": 173,
+    "Altura": 1.73,
     "Peso": 94,
     "Imagem": "\\img\\pokemons\\12.webp"
   }

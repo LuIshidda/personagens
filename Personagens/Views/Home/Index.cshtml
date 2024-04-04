@@ -11,10 +11,10 @@
     }    
 }
 
-<section class="pt-5 pb-3 text-center container">
+<section class="pt-5 pb-3 text-center container ">
     <div class="row">
         <div class="col mx-auto">
-            <h1>Personagens Kimetsu</h1>
+            <h1 class="text-white">Personagens Kimetsu</h1>
             <div class="group">
                 <button id="btn-all" class="btn btn-md my-2 text-white bg-dark btn-filter" 
                     onclick="filter('all')">
@@ -42,7 +42,7 @@
                 <!-- Card Pokemon - Inicio -->
                 <div class="col" onclick="window.location = 'Home/Details/@pokemon.Numero'">
                     <div class="card shadow-sm cursor-pointer planta @string.Join(' ', pokemon.Tipo)">
-                        <img src="@pokemon.Imagem" class="card-img-top" width="100%" height="300" alt="@pokemon.Nome" />
+                        <img src="@pokemon.Imagem" class="card-img-top" width="100%" height="400" alt="@pokemon.Nome" />
                         <div class="card-body">
                             <p class="card-text mb-0">@pokemon.Numero.ToString("000")</p>
                             <h3 class="card-title">@pokemon.Nome</h3>
@@ -60,7 +60,7 @@
                 <!-- Card Pokemon - Fim -->
             }
             <div id="zeroPokemon" class="col-lg-12 text-center d-none">
-                <h1 class="my-3 text-danger">Nenhum Pokemon Encontrado</h1>
+                <h1 class="my-3 text-danger">Nenhum Personagen Encontrado</h1>
             </div>
         </div>
 
